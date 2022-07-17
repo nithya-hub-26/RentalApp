@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726929212241",
+    "project_id": "rental-app-f1f06",
+    "storage_bucket": "rental-app-f1f06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726929212241:android:790f1a44156f2c06100970",
+        "android_client_info": {
+          "package_name": "com.legenddreamz.rentalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726929212241-ps48len3ej9q711l81to9pen43219kod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChFt-emRjIM7jwYQLvkGIgIrTZeevWSrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726929212241-ps48len3ej9q711l81to9pen43219kod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
